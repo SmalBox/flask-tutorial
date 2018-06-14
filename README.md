@@ -1,8 +1,8 @@
 # flask-tutorial
-/flaskr/
-	templates/
-		auth/
-		blog/
-	static/
-tests/
-venv/
+	/flaskr/
+		templates/
+			auth/
+			blog/
+		static/
+	tests/
+	venv/
